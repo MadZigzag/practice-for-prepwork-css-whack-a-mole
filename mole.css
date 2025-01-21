@@ -1,4 +1,20 @@
 /* Your code here */
+.wgs {
+  display: inline-block;
+  height: 482px;
+  width: 640px;
+  position: relative;
+}
+.wgs__dirt-pile {
+  height: 220px;
+  position: absolute;
+  top: 262px;
+}
+.wgs__mole-head {
+  left: 109px;
+  width: 376px;
+  position: absolute;
+}
 
 
 
